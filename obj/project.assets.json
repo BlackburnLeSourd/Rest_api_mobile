@@ -9713,11 +9713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rocket-Elevators-Rest-API\\RocketElevatorsApi\\RocketElevatorsApi.csproj",
+      "projectUniqueName": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rest_api_mobile\\RocketElevatorsApi.csproj",
       "projectName": "RocketElevatorsApi",
-      "projectPath": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rocket-Elevators-Rest-API\\RocketElevatorsApi\\RocketElevatorsApi.csproj",
+      "projectPath": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rest_api_mobile\\RocketElevatorsApi.csproj",
       "packagesPath": "C:\\Users\\N69_b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rocket-Elevators-Rest-API\\RocketElevatorsApi\\obj\\",
+      "outputPath": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rest_api_mobile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\N69_b\\AppData\\Roaming\\NuGet\\NuGet.Config"

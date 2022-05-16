@@ -1,11 +1,12 @@
+#nullable disable
 using Microsoft.EntityFrameworkCore;
 using RocketElevatorsApi.Models;
 
 namespace RocketElevatorsApi.Data
 {
-    public class ApplicationDbContext:DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) :
             base(options)
         {
 
@@ -18,6 +19,7 @@ namespace RocketElevatorsApi.Data
         public DbSet<Lead> leads { get; set; }
         public DbSet<User> users { get; set; }
         public DbSet<Customer> customers { get; set; }
+        public DbSet<Employee> employees { get; set; }
 
     }
 }

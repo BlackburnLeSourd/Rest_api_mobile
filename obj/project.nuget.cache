@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1LxU8Bl/PZU9pqoIsZwhLAQ7g9nodKBzxULHjNv7jix60rlwVoV3fzmlTRY7ukB4tA6QGBfMIE6Bn6JnmdW5Q==",
+  "dgSpecHash": "4iQdepI/OxxpVFIebtCCi2wCxf5bxbemUuzDPWLuCRsp9OvIoDAqXVW4dhCakhVrIAoi6pcPoEptS7pI5rFfCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rocket-Elevators-Rest-API\\RocketElevatorsApi\\RocketElevatorsApi.csproj",
+  "projectFilePath": "C:\\Users\\N69_b\\Documents\\API-Mobile\\Rest_api_mobile\\RocketElevatorsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\N69_b\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\N69_b\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
